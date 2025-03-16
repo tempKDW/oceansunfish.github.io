@@ -16,6 +16,7 @@ params:
   title: 태양물고기개발
   description: "태양물고기개발"
   keywords: [Portfolio, PaperMod]
+  # footer: ["qwe", "Qwe"]
   author: 김동욱
   # author: ["Me", "You"] # multiple authors
   images: ["<link or path of image for opengraph, twitter-cards>"]
